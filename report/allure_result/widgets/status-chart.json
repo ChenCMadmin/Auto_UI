@@ -1,0 +1,41 @@
+[ {
+  "uid" : "cb196eb1bf36adeb",
+  "name" : "登录用例",
+  "time" : {
+    "start" : 1602673424993,
+    "stop" : 1602673430618,
+    "duration" : 5625
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b185528d79177ef0",
+  "name" : "登录用例",
+  "time" : {
+    "start" : 1602673416263,
+    "stop" : 1602673421189,
+    "duration" : 4926
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "560d09a1f57ff677",
+  "name" : "登录用例",
+  "time" : {
+    "start" : 1602673397238,
+    "stop" : 1602673403231,
+    "duration" : 5993
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f14ac3c4fb753dfd",
+  "name" : "登录用例",
+  "time" : {
+    "start" : 1602673407018,
+    "stop" : 1602673412465,
+    "duration" : 5447
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

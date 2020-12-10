@@ -1,0 +1,29 @@
+testinfo:
+      - id: test_login001
+        title: 小米帐号 - 登录
+        info: 打开抽屉首页
+testcase:
+      - element_info: username
+        find_type: ID
+        operate_type: send_keys
+        info: 账号输入框
+      - element_info: pwd
+        find_type: ID
+        operate_type: send_keys
+        info: 密码输入框
+      - element_info: login-button
+        find_type: ID
+        operate_type: click
+        info: 登录按钮
+      - element_info: error-con
+        find_type: class
+        operate_type: text
+        info: 密码错误文本内容
+      - element_info: na-num
+        find_type: class
+        operate_type: text
+        info: 登录成功后个人账户信息
+      - element_info: logoutLink
+        find_type: ID
+        operate_type: click
+        info: 退出登录按钮

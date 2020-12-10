@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Oct 14 19:03:44 CST 2020","Wed Oct 14 19:03:50 CST 2020","5625","","test_login","Test_CaseRun","","","登录用例",""
+"passed","Wed Oct 14 19:03:36 CST 2020","Wed Oct 14 19:03:41 CST 2020","4926","","test_login","Test_CaseRun","","","登录用例",""
+"passed","Wed Oct 14 19:03:17 CST 2020","Wed Oct 14 19:03:23 CST 2020","5993","","test_login","Test_CaseRun","","","登录用例",""
+"passed","Wed Oct 14 19:03:27 CST 2020","Wed Oct 14 19:03:32 CST 2020","5447","","test_login","Test_CaseRun","","","登录用例",""

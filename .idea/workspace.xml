@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a81fa88-87f6-4156-9bd0-fcb1e17a1ff4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Auto_UI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Auto_UI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page_obj/login_obj.py" beforeDir="false" afterPath="$PROJECT_DIR$/page_obj/login_obj.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/login.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hUnSXXsniCvBjcOTmWOon7VsHP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DemoUI" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for login.CaseRun">
+    <configuration name="get_config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Auto_UI" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Auto_UI" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\工作文档\Auto_UI" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\工作文档\Auto_UI\test_case" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.setting_path">
+    <configuration name="Log" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 08ea74497d5e7670b2977c7259bf05f38977170f
+      <module name="Auto_UI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/Log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Auto_UI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\工作文档\Auto_UI\conf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Auto_UI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login.CaseRun&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conftest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+>>>>>>> 08ea74497d5e7670b2977c7259bf05f38977170f
+      <method v="2" />
+    </configuration>
+    <configuration name="setting_path" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Auto_UI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login.CaseRun.test_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config/setting_path.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+>>>>>>> 08ea74497d5e7670b2977c7259bf05f38977170f
+      <method v="2" />
+    </configuration>
+    <configuration name="test_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Auto_UI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\工作文档\Auto_UI\test_case\test_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Auto_UI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Log" />
+      <item itemvalue="Python.conftest" />
+      <item itemvalue="Python.test_login" />
+      <item itemvalue="Python tests.pytest in test_login.py" />
+      <item itemvalue="Python.setting_path" />
+    </list>
+    <recent_temporary>
+      <list>
+<<<<<<< HEAD
+        <item itemvalue="Python tests.pytest for login.CaseRun" />
+        <item itemvalue="Python tests.pytest in login.py" />
+        <item itemvalue="Python tests.pytest for login.CaseRun.test_search" />
+        <item itemvalue="Python.login_page" />
+        <item itemvalue="Python.get_config" />
+=======
+        <item itemvalue="Python.setting_path" />
+        <item itemvalue="Python tests.pytest in test_login.py" />
+        <item itemvalue="Python.test_login" />
+        <item itemvalue="Python.conftest" />
+        <item itemvalue="Python.Log" />
+>>>>>>> 08ea74497d5e7670b2977c7259bf05f38977170f
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a81fa88-87f6-4156-9bd0-fcb1e17a1ff4" name="Default Changelist" comment="" />
+      <created>1600074538853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600074538853</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+<<<<<<< HEAD
+              <option name="COLUMN_ORDER" />
+=======
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+>>>>>>> 08ea74497d5e7670b2977c7259bf05f38977170f
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="625" y="291" key="#Notifications" timestamp="1600679727869">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="625" y="291" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1600679727869" />
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601108309921">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1601108309921" />
+    <state x="694" y="262" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600757244903">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="694" y="262" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1600757244903" />
+    <state x="450" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601102406403">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="450" y="169" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1601102406403" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1601108306652">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1601108306652" />
+    <state width="1402" height="197" key="GridCell.Tab.0.bottom" timestamp="1601113196586">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1402" height="197" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601113196586" />
+    <state width="1402" height="197" key="GridCell.Tab.0.center" timestamp="1601113196586">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1402" height="197" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601113196586" />
+    <state width="1402" height="197" key="GridCell.Tab.0.left" timestamp="1601113196586">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1402" height="197" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601113196586" />
+    <state width="1402" height="197" key="GridCell.Tab.0.right" timestamp="1601113196586">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1402" height="197" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601113196586" />
+    <state width="1434" height="245" key="GridCell.Tab.1.bottom" timestamp="1601107597209">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1434" height="245" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601107597209" />
+    <state width="1434" height="245" key="GridCell.Tab.1.center" timestamp="1601107597208">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1434" height="245" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1601107597208" />
+    <state width="1434" height="245" key="GridCell.Tab.1.left" timestamp="1601107597208">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1434" height="245" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1601107597208" />
+    <state width="1434" height="245" key="GridCell.Tab.1.right" timestamp="1601107597209">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1434" height="245" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1601107597209" />
+    <state x="304" y="118" key="SettingsEditor" timestamp="1601109052006">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="304" y="118" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1601109052006" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+[32mINFO    [0m root:Log.py:40 执行用例:login_04
+[32mINFO    [0m root:Log.py:40 断言成功
+[32mINFO    [0m root:Log.py:40 用例: login_04成功运行

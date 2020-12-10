@@ -1,0 +1,36 @@
+-
+  id: login_01
+  detail : 正确登录
+  status : login_success
+  data:
+    account: "username"
+    pwd: "password"
+  check :
+     - "user_number"
+-
+  id: login_02
+  detail : 输入错误的账号
+  status : login_fail
+  data:
+    account: "123456"
+    pwd: "xxxx"
+  check :
+     - 用户名或密码不正确
+-
+  id: login_03
+  detail : 账号输入为空
+  status : login_fail
+  data:
+    account: ""
+    pwd: "123456"
+  check :
+     - 请输入帐号
+-
+  id: login_04
+  detail : 密码输入为空
+  status : login_fail
+  data:
+    account: "123456"
+    pwd: ""
+  check :
+     - 请输入密码

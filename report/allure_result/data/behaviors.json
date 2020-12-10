@@ -1,0 +1,65 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "测试用例运行",
+    "children" : [ {
+      "name" : "测试登录",
+      "children" : [ {
+        "name" : "登录用例",
+        "uid" : "560d09a1f57ff677",
+        "parentUid" : "00662528a2df2a5e17bc582897b9a1b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602673397238,
+          "stop" : 1602673403231,
+          "duration" : 5993
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'id': 'login_01', 'detail': '正确登录', 'status': 'login_success', 'data': {'account': '15599082962', 'pwd': '19971212hzj'}, 'check': ['2368875583']}" ]
+      }, {
+        "name" : "登录用例",
+        "uid" : "f14ac3c4fb753dfd",
+        "parentUid" : "00662528a2df2a5e17bc582897b9a1b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602673407018,
+          "stop" : 1602673412465,
+          "duration" : 5447
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'id': 'login_02', 'detail': '输入错误的账号', 'status': 'login_fail', 'data': {'account': '123456', 'pwd': '19971212hzj'}, 'check': ['用户名或密码不正确']}" ]
+      }, {
+        "name" : "登录用例",
+        "uid" : "b185528d79177ef0",
+        "parentUid" : "00662528a2df2a5e17bc582897b9a1b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602673416263,
+          "stop" : 1602673421189,
+          "duration" : 4926
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'id': 'login_03', 'detail': '账号输入为空', 'status': 'login_fail', 'data': {'account': '', 'pwd': '123456'}, 'check': ['请输入帐号']}" ]
+      }, {
+        "name" : "登录用例",
+        "uid" : "cb196eb1bf36adeb",
+        "parentUid" : "00662528a2df2a5e17bc582897b9a1b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602673424993,
+          "stop" : 1602673430618,
+          "duration" : 5625
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'id': 'login_04', 'detail': '密码输入为空', 'status': 'login_fail', 'data': {'account': '15599082962', 'pwd': ''}, 'check': ['请输入密码']}" ]
+      } ],
+      "uid" : "00662528a2df2a5e17bc582897b9a1b2"
+    } ],
+    "uid" : "7ed10348178d45be21dd8643b277eaf8"
+  } ]
+}
